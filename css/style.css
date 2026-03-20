@@ -1,6 +1,6 @@
 body { 
     font-family: sans-serif;  
-    padding-top: 50px; 
+    padding-top: 50px;
 }
 #notas {
     width: 40%;
@@ -9,4 +9,13 @@ body {
     font-size: 16px;
     border: 2px solid #ccc;
     border-radius: 5px;
+}
+
+#queijo{
+    width:300px ;
+    height:250px;
+    border-color: rgb(143, 143, 37);
+}
+h1{
+    font-style: italic;
 }
